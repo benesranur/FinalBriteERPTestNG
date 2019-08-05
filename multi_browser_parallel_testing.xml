@@ -3,13 +3,13 @@
     <test name="Login tests using Firefox">
         <parameter name="browser" value="chrome"></parameter>
         <packages>
-            <package name="com.vytrack.tests.components.activities"></package>
+            <package name="com.briteERP.tests.components.activities"></package>
         </packages>
     </test>
     <test name="Login tests using Chrome">
         <parameter name="browser" value="firefox"></parameter>
         <packages>
-            <package name="com.vytrack.tests.components.activities"></package>
+            <package name="com.briteERP.tests.components.activities"></package>
         </packages>
     </test>
 </suite>

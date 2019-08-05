@@ -2,7 +2,7 @@
 <suite name="Calendar events tests">
     <test name="Calendar Events Tests">
         <classes>
-            <class name="com.vytrack.tests.components.activities.CalendarEventsTests"/>
+            <class name="com.briteERP.tests.components.activities.CalendarEventsTests"/>
         </classes>
     </test>
 

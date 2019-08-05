@@ -3,7 +3,8 @@
     <test name="Smoke test" >
         <parameter name="test" value="smoke"></parameter>
         <classes>
-            <class name="com.vytrack.tests.smoketest.SmokeTest" />
+            <class name="com.briteERP.tests.smoketest.SmokeTest" />
+
         </classes>
     </test>
 </suite>

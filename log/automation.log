@@ -1,0 +1,71 @@
+2019-08-05 17:45:08 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 17:45:20 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 17:45:28 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 17:52:08 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 17:52:19 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 17:52:29 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 17:54:24 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 17:54:35 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 17:54:43 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 17:59:52 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 17:59:59 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:00:07 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:03:09 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:03:17 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:03:29 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:03:41 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:03:46 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:06:49 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:06:57 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:07:11 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:07:18 [main] ERROR BasePage:53 - purple loading image thingy isn't present
+2019-08-05 18:07:23 [main] ERROR BasePage:53 - purple loading image thingy isn't present
+2019-08-05 18:07:24 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:12:57 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:13:05 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:13:12 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:13:55 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:14:02 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:14:09 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:14:44 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:14:51 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:15:00 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:16:20 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:16:29 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:16:38 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:18:12 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:18:21 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:18:28 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:32:44 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:32:51 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:32:57 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:34:03 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:34:08 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:34:20 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:35:21 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:35:27 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:35:38 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:36:21 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:36:27 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:36:38 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:43:59 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:44:05 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:44:18 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:45:28 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:45:34 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:45:46 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:48:05 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:48:11 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:48:22 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:49:28 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:49:34 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:49:40 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 18:50:26 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 18:50:32 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 18:50:40 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 19:17:57 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 19:18:03 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 19:18:11 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::
+2019-08-05 19:20:45 [main] INFO  TestBase:47 - Report path: C:\Users\Esra\IdeaProjects\FinalBriteERPTestNG/test-output/reports/08_05_2019/report.html
+2019-08-05 19:20:52 [main] INFO  TestBase:70 - URL: http://34.220.250.213/web/login
+2019-08-05 19:20:59 [main] INFO  TestBase:108 - :: FLUSHING REPORT ::

@@ -9,7 +9,7 @@
         </groups>
 
         <classes>
-            <class name="com.vytrack.tests.smoketest.SmokeTest"></class>
+            <class name="com.briteERP.tests.smoketest.SmokeTest"></class>
         </classes>
     </test>
 
